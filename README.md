@@ -9,7 +9,7 @@ https://codepen.io/shubniggurath/pen/EmMzpp
 
 ### Cocoapods
 
-`pod 'UIBlob`
+`pod 'UIBlob'`
 
 ### Manually
 
