@@ -3,7 +3,7 @@
 A Swift implementation of the blob effect made by Liam Egan. Original source:
 https://codepen.io/shubniggurath/pen/EmMzpp
 
-![demo](/docs/demo.gif)
+![demo](https://raw.githubusercontent.com/endanke/UIBlob/master/docs/demo.gif)
 
 ## Installation
 
