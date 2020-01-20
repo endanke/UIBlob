@@ -8,18 +8,18 @@
 
 import UIKit
 
-class UIBlob: UIView {
+open class UIBlob: UIView {
     
-    override init(frame: CGRect) {
+    public override init(frame: CGRect) {
         super.init(frame: frame)
     }
     
-    required init?(coder: NSCoder) {
+    public required init?(coder: NSCoder) {
         super.init(coder: coder)
         commonInit()
     }
     
-    func commonInit() {
+    public func commonInit() {
         self.backgroundColor = .red
     }
     
