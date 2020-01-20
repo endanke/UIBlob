@@ -7,7 +7,7 @@ https://codepen.io/shubniggurath/pen/EmMzpp
 
 ### Cocoapods
 
-`pod 'SwiftyGif`
+`pod 'UIBlob`
 
 ### Manually
 
