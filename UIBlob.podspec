@@ -9,5 +9,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/endanke/UIBlob.git', :tag => spec.version.to_s }
   spec.platform         = :ios
   spec.swift_version    = '4.2'
+  spec.ios.deployment_target = '9.0'
   spec.source_files     = 'UIBlob/*{.h,.swift}'
 end
